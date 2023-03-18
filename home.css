@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+    padding: 20;
+    background: url("https://i.ibb.co/GTv0Y7J/shapenirvana.jpg") no-repeat;
+    background-size: cover;
+}
+.home-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .home-text {
+ 
+    position: absolute;
+    top: 0;
+    left: 10;
+    align-self: flex-start;
+    font-family: "Century Gothic",sans-serif;
+    color: white;
+
+  }
+  .my-link1 {
+
+    position: absolute;
+    top: 26px;
+    right: 132px;
+    text-decoration: none;
+    color: white;
+    font-family: "Century Gothic",sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+
+  }
+
+
+  .my-link2 {
+
+    top: 26px;
+    right: 33px;
+    position: absolute;
+    font-size: 20px;
+    color: white;
+    font-family: "Century Gothic",sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+
+  }
+  .home-container1 {
+    width: 100%;
+    height: 706px;
+    display: flex;
+    position: relative;
+    align-items: flex-end;
+    justify-content: center;
+  }
+  .home-image {
+    top: -1px;
+    left: 399px;
+    width: 497px;
+    height: 442px;
+    position: absolute;
+    object-fit: cover;
+  }
+  .home-text3 {
+    top: 468px;
+    left: 448px;
+    position: absolute;
+    font-size: 40px;
+    color: white;
+    font-family: "Century Gothic",sans-serif;
+    font-weight: 700;
+  }
+  .home-text4 {
+    top: 531px;
+    left: 556px;
+    position: absolute;
+    font-size: 35px;
+    color: white;
+    font-family: "Century Gothic",sans-serif;
+  }
+  .home-text5 {
+    top: 531px;
+    left: 556px;
+    position: absolute;
+    font-size: 35px;
+    color: white;
+    font-family: "Century Gothic",sans-serif;
+  }
+  .my-link {
+    position: absolute;
+    top: 0;
+    right: 0;
+    text-decoration: none;
+    color: white;
+  }
+  
